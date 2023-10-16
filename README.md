@@ -2,7 +2,7 @@
 
 Espresso Emporium is a web application for managing a coffee store. It is built using a variety of technologies to provide a seamless coffee-related experience for both customers and administrators. Below, you'll find an overview of the main functionalities and features of the Espresso Emporium website.
 
-
+**Explore Espresso Emporium**: [Live Website]( https://new-coffee-store.web.app)
 
 ## Technologies Used
 
